@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://commerceedge.onrender.com/api/:path*"
+    }
+  ]
+}
